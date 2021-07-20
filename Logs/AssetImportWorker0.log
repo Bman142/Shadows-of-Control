@@ -1,0 +1,364 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 32678 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Elijah/Documents/GitHub/SeriousAudioGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61200
+Successfully changed project path to: C:/Users/Elijah/Documents/GitHub/SeriousAudioGame
+C:/Users/Elijah/Documents/GitHub/SeriousAudioGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Elijah/Documents/GitHub/SeriousAudioGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   
+    VRAM:     10077 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002224 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 45.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.493 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001109 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2373 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.9 MB.
+System memory in use after: 105.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2814.
+Total: 2.702200 ms (FindLiveObjects: 0.317500 ms CreateObjectMapping: 0.064100 ms MarkObjects: 2.162200 ms  DeleteObjects: 0.157000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/seriousgame/Graphics/Sprites/Audio_Desk.png
+  artifactKey: Guid(b2e59bb8addeb0141989de63b3d73405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Audio_Desk.png using Guid(b2e59bb8addeb0141989de63b3d73405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364c791cb4764dad186d179d4ba04408') in 0.117346 seconds
+  Import took 0.121149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Audio_Desk.png
+  artifactKey: Guid(b2e59bb8addeb0141989de63b3d73405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Audio_Desk.png using Guid(b2e59bb8addeb0141989de63b3d73405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364c791cb4764dad186d179d4ba04408') in 0.009603 seconds
+  Import took 0.012568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 223.723658 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Mac/588525cd6f293bbfae451a37.png
+  artifactKey: Guid(de2f072e11e3080439cf1a55073ea9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Mac/588525cd6f293bbfae451a37.png using Guid(de2f072e11e3080439cf1a55073ea9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3be445b580f3161c8207b82ab5709f2') in 0.018047 seconds
+  Import took 0.021960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/seriousgame/Graphics/Background1920x1080 (Chris-less).png
+  artifactKey: Guid(2bbf3f17452bad340b729437bf50076f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Background1920x1080 (Chris-less).png using Guid(2bbf3f17452bad340b729437bf50076f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b47884ef63c87a48d2c8404c684926e') in 0.010361 seconds
+  Import took 0.013407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/arrow-up-sprite.png
+  artifactKey: Guid(b6920f0fc26864df0a145e7e3767f255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/arrow-up-sprite.png using Guid(b6920f0fc26864df0a145e7e3767f255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9423c1a6caf6152d4184c73ca1ba24ce') in 0.010873 seconds
+  Import took 0.014490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Bird/BirdAnims1.png
+  artifactKey: Guid(604f5780c1f434801a21a7dc6c41289b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Bird/BirdAnims1.png using Guid(604f5780c1f434801a21a7dc6c41289b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e224cb320d9b8d296a54d14818b340') in 0.032901 seconds
+  Import took 0.036834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_3.png
+  artifactKey: Guid(15d7eafd0c5404e2a9e1dbb4e1ec1c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_3.png using Guid(15d7eafd0c5404e2a9e1dbb4e1ec1c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cfc1c56072ae12357f7d88886501f88') in 0.010252 seconds
+  Import took 0.013825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_2.png
+  artifactKey: Guid(0a1eb0cfd02454ee393c8a0e701c35c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_2.png using Guid(0a1eb0cfd02454ee393c8a0e701c35c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc14b7d95c4d336f12cf8473a82d317') in 0.009431 seconds
+  Import took 0.013131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_1.png
+  artifactKey: Guid(16cdf7e797f9740cebcc74337759c604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_1.png using Guid(16cdf7e797f9740cebcc74337759c604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4ef83c3667742e5bb991704e312123') in 0.009743 seconds
+  Import took 0.013303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_4.png
+  artifactKey: Guid(0a8d5838477de4f9cbb5f2a40dbe08fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_4.png using Guid(0a8d5838477de4f9cbb5f2a40dbe08fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847d72e474c12608ba19c712c476b883') in 0.014521 seconds
+  Import took 0.017664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_10.png
+  artifactKey: Guid(b40467da82cbe4e46a60b7d6b7cbd32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_10.png using Guid(b40467da82cbe4e46a60b7d6b7cbd32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b183ef14ed8495308f8f7b9d8e4d3fc') in 0.009588 seconds
+  Import took 0.012492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Mac/588525cd6f293bbfae451a37.png
+  artifactKey: Guid(de2f072e11e3080439cf1a55073ea9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Mac/588525cd6f293bbfae451a37.png using Guid(de2f072e11e3080439cf1a55073ea9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3be445b580f3161c8207b82ab5709f2') in 0.014038 seconds
+  Import took 0.017383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_6.png
+  artifactKey: Guid(d5dea37359d7941e08ce9704de193015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_6.png using Guid(d5dea37359d7941e08ce9704de193015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e65d7cd1c312188c9e5759d8bd6145') in 0.009899 seconds
+  Import took 0.013292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/badbutton.png
+  artifactKey: Guid(9df6282099cd2cf4fb00a42ea40d684f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/badbutton.png using Guid(9df6282099cd2cf4fb00a42ea40d684f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b57e104a7576bf7e3370234acf3edec7') in 0.010616 seconds
+  Import took 0.014205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Bird/BirdAnims2.png
+  artifactKey: Guid(3465222c6d7b642cb8fb9b9cd877995d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Bird/BirdAnims2.png using Guid(3465222c6d7b642cb8fb9b9cd877995d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f63a3f23d5de971ff2613eb84202f42') in 0.017639 seconds
+  Import took 0.021745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/arrow.png
+  artifactKey: Guid(a475b1f8e5de0bd428868db4e11cde16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/arrow.png using Guid(a475b1f8e5de0bd428868db4e11cde16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e976c1ff6cc7f33859ea9ca719ca974d') in 0.012209 seconds
+  Import took 0.015652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Mac/Background.jpg
+  artifactKey: Guid(56396afa8ecbdeb42ba39c9115a55b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Mac/Background.jpg using Guid(56396afa8ecbdeb42ba39c9115a55b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b819243da41b3dfc11c8d99ae3367e') in 0.012818 seconds
+  Import took 0.016002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Background1920x1080.png
+  artifactKey: Guid(8468f30ae754ee141b9ac7dda00ad7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Background1920x1080.png using Guid(8468f30ae754ee141b9ac7dda00ad7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39b8bbbb41f38620e57463d201963fe') in 0.008654 seconds
+  Import took 0.012191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/arrow-down-sprite.png
+  artifactKey: Guid(18c607ae4ff48443eadeac4bc6e96e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/arrow-down-sprite.png using Guid(18c607ae4ff48443eadeac4bc6e96e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ddf83a74d244a73d9f689b98cd40871') in 0.009276 seconds
+  Import took 0.012228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/B_Deck.png
+  artifactKey: Guid(371343527b9b2364ea754bf1ecad52c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/B_Deck.png using Guid(371343527b9b2364ea754bf1ecad52c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d13536dc645efd08016911d9640455') in 0.011270 seconds
+  Import took 0.014596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_8.png
+  artifactKey: Guid(bda1c442a7f6c4482a67325622312b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_8.png using Guid(bda1c442a7f6c4482a67325622312b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81fb25ce035e7e722b1f07bc2f653428') in 0.011766 seconds
+  Import took 0.015050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_7.png
+  artifactKey: Guid(ca3d831b685bd401983e95e0be9ece58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_7.png using Guid(ca3d831b685bd401983e95e0be9ece58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a00de9820d91627d59896882d9b395') in 0.010425 seconds
+  Import took 0.013682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Mac/AppStore-icon.png
+  artifactKey: Guid(67000f8fcd3681a4fb42b4448e0e7a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Mac/AppStore-icon.png using Guid(67000f8fcd3681a4fb42b4448e0e7a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c95e98f4cc88755112e5e2e9121784a') in 0.011964 seconds
+  Import took 0.015320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/arrow-right-sprite.png
+  artifactKey: Guid(d61bd24a3526248b5a8b5086726d9d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/arrow-right-sprite.png using Guid(d61bd24a3526248b5a8b5086726d9d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455fa76b4e4048c4cc80e31ce159fd9d') in 0.010841 seconds
+  Import took 0.014235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/B_speaker.png
+  artifactKey: Guid(8bbdc31d2694f7446aef133e24633f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/B_speaker.png using Guid(8bbdc31d2694f7446aef133e24633f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e5191763b48071c4779ceb3463a915') in 0.010459 seconds
+  Import took 0.014193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_5.png
+  artifactKey: Guid(062df06317ffa4893811058ac305629a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_5.png using Guid(062df06317ffa4893811058ac305629a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743c6df40192ed50e54a28dc3292f12f') in 0.013001 seconds
+  Import took 0.016667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/arrow-left-sprite.png
+  artifactKey: Guid(5a92dd715310c4e90b5ce6207f024c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/arrow-left-sprite.png using Guid(5a92dd715310c4e90b5ce6207f024c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c463b272d8f0f6e8abcfb72510aed20') in 0.010835 seconds
+  Import took 0.014194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/B_Interface.png
+  artifactKey: Guid(53476c64adec32445a67b823702bd529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/B_Interface.png using Guid(53476c64adec32445a67b823702bd529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcec0371122cfc4891d907c73f263ca') in 0.011188 seconds
+  Import took 0.014749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/seriousgame/Graphics/Background 2.png
+  artifactKey: Guid(a2a91adae68dc644c83065a24e4fff70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Background 2.png using Guid(a2a91adae68dc644c83065a24e4fff70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab9a16e2c63f6d1088ebb6a370880de') in 0.011017 seconds
+  Import took 0.014687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_9.png
+  artifactKey: Guid(6ab36b35777044d929810e4b090a2a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Sprites/Brain/BrainPush/BrainPush_9.png using Guid(6ab36b35777044d929810e4b090a2a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63b5f0118b43b61c69cdd132c78ae49') in 0.009933 seconds
+  Import took 0.013785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.471400 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Audio_Desk LOGO.png
+  artifactKey: Guid(aa1071ede47ba09498fbe7118540cff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Audio_Desk LOGO.png using Guid(aa1071ede47ba09498fbe7118540cff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672b2c870fa7ef71c17ff72a3682296a') in 0.012988 seconds
+  Import took 0.016713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024231 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Audio_Desk LOGO.png
+  artifactKey: Guid(aa1071ede47ba09498fbe7118540cff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Audio_Desk LOGO.png using Guid(aa1071ede47ba09498fbe7118540cff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672b2c870fa7ef71c17ff72a3682296a') in 0.012700 seconds
+  Import took 0.016383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.219057 seconds.
+  path: Assets/seriousgame/Graphics/Sprites/Audio_Desk LOGOO.png
+  artifactKey: Guid(4d35ef7ca4121594c9f22401ebbeca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/seriousgame/Graphics/Sprites/Audio_Desk LOGOO.png using Guid(4d35ef7ca4121594c9f22401ebbeca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25efd86075ad5c2be3ce78e0f0f5348') in 0.014507 seconds
+  Import took 0.018066 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2862.
+Total: 2.699200 ms (FindLiveObjects: 0.317300 ms CreateObjectMapping: 0.072700 ms MarkObjects: 2.208500 ms  DeleteObjects: 0.100000 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2862.
+Total: 2.825900 ms (FindLiveObjects: 0.312300 ms CreateObjectMapping: 0.062600 ms MarkObjects: 2.325700 ms  DeleteObjects: 0.123600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
