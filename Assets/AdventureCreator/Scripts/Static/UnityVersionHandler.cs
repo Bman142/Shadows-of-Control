@@ -482,7 +482,7 @@ namespace AC
 		public static bool IsPrefabEditing (Object _target)
 		{
 			#if NEW_PREFABS
-			UnityEditor.Experimental.SceneManagement.PrefabStage prefabStage = UnityEditor.Experimental.SceneManagement.PrefabStageUtility.GetCurrentPrefabStage ();
+			UnityEditor.SceneManagement.PrefabStage prefabStage = UnityEditor.SceneManagement.PrefabStageUtility.GetCurrentPrefabStage ();
 			if (prefabStage != null && _target is GameObject)
 			{
 				return prefabStage.IsPartOfPrefabContents (_target as GameObject);
